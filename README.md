@@ -5,7 +5,7 @@ For that, i scraped data from roughly 30000 house-for-sale offers from the real 
 
 ## The actual code, you'll find in the notebooks 
 
-  [__House Price Predicitons- FINAL.ipynb__](https://github.com/mmrachacz/final_project/blob/main/House%20Price%20Predicitons-%20FINAL.ipynb)   
+  [__House Price Predicitons.ipynb__](https://github.com/mmrachacz/final_project/blob/main/House%20Price%20Predicitons-%20FINAL.ipynb)   
   - contains the cleaning and prediction process  
   
   and     
